@@ -19,9 +19,9 @@ Write the C Program using Linux Process API - Sempahores
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-# Developed by
-Name : HARISHKUMAR R
+# Developed by :
 Reg no : 212223230073
+Name : HARISHKUMAR R
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
