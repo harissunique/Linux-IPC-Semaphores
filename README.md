@@ -26,7 +26,7 @@ Name : HARISHKUMAR R
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
-```
+```c
 /*
  * sem.c  - demonstrates a basic producer-consumer
  *                            implementation.              */
@@ -109,7 +109,7 @@ if(NUM_LOOPS>=10)    {
 	    }}
 	    break;
     }
-    return 0;}
+    return 0;
 ```
 
 
